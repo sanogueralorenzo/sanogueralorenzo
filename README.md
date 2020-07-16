@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello everyone 👋, my name is Mario
 
-<!--
-**sanogueralorenzo/sanogueralorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 &nbsp; I'm an Android Engineer
+- 🌉 &nbsp; I’m working in San Francisco
+- 🎨 &nbsp; I’m learning Design with Figma
+- 💬 &nbsp; Ask me about anything, I'll listen and help 🤗
+- 🤩 &nbsp; I'm inspired by the Android community and events
+- ✍️ &nbsp; Hiring? Find more about my career and experience [here](https://bit.ly/mariocvprogrammer)
+- 🥑 &nbsp; I'm reinventing the todo-calendar-wellbeing concept with Avvocatti, a digital wellbeing experiment
+- ✈️ &nbsp; I'm originally from Valencia 🇪🇸 but I've worked in London 🇬🇧, Berlin 🇩🇪 and San Francisco 🇺🇸, where should I go next? 📍
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 &nbsp; [LinkedIn](https://www.linkedin.com/in/mario-sanoguera-de-lorenzo-b7b392103/) | [Twitter](https://twitter.com/MarioSanoguera) | [Medium](https://medium.com/@sanogueralorenzo)
